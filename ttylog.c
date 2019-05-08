@@ -35,7 +35,7 @@
 
 #include "config.h"
 
-#define BAUDN 9
+#define BAUDN 10
 
 char flush = 0;
 
